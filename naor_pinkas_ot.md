@@ -8,7 +8,7 @@ There are two parties of the tow-choose-one OT protocol, sender and receiver. Se
 ```
 struct PP
 {
-	ECPoint g;
+    ECPoint g;
 };
 ```
 The `PP` struct holds the public parameter of NPOT protocol, which is a generator group `g`. It can be initialized by `Setup()`. 
