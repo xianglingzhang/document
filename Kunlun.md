@@ -1,4 +1,4 @@
-<h1 align = "center">Kunlun: A Modern Crypto Library</h1>
+# Kunlun: A Modern Crypto Library
 
 ## Overview
 
